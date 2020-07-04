@@ -1,5 +1,7 @@
 Django Rest Framework + React = ❤ (FRONTEND)
 
+The link to the backend >>> https://github.com/Ybrayym-Abamov/GhostPost-BackendREST-API-React
+
 As the internet becomes bigger and applications become more complex, the "simple" front end we all know and love is slowly dying. It still works well for certain types of websites, but the user (and the developers) are getting more and more accustomed to a more complex, but more extendable, way of building things.
 
 The purpose of this project is to build a React front end that interfaces with a Django Rest Framework back end running on the same machine.
